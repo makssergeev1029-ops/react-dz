@@ -21,3 +21,9 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# Служебные файлы Visual Studio
+.vs/
+*.slnx
+*.suo
+*.user
